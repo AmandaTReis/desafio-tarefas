@@ -1,0 +1,57 @@
+    .panel{
+         width:60%;
+         text-align: center;
+         margin-top: 2%;
+         margin-left:auto;
+         margin-right:auto;
+    }
+    .form-control {
+      margin-bottom: 5px;
+    }
+    .listaTarefas{
+      margin-top: 10px;
+    }
+   .tarefa {
+      text-align: left;
+      margin: 5px;
+      border: 1px solid #e6e6e6;
+      padding: 5px;
+    } 
+    .fa-trash{
+      color:red;
+      cursor: pointer;
+      padding: 5px;
+    }    
+    .fa-check{
+      color:green;
+      cursor: pointer;
+      padding: 5px;
+    }
+    .fa-pencil{
+      cursor: pointer;
+      padding: 5px;
+    }
+    .descricao{
+      margin-bottom: 5px;
+    }
+    .descricao p{
+        font-family: "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+        font-size: 14px;
+        margin-top: .5em; color: #666;
+    }
+    .icones{
+      text-align: right;
+      padding-top: 5px;
+    }
+    .finalizada{
+      text-decoration: line-through;
+      font-style: italic;
+    }
+    .alinhar-direita{
+      text-align: right;
+      margin: 5px;
+    }
+    .botoes-ordenacao{
+      padding: 10px;
+
+    }
